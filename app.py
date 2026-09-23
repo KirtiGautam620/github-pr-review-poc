@@ -12,3 +12,9 @@ def divide(a, b):
 def get_discount(price):
     return price * 0.10
 
+def even(n):
+    if n%2==0:
+        print("odd")
+    else:
+        print("even")
+
