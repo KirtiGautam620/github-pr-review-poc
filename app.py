@@ -9,3 +9,9 @@ def divide(a, b):
 
 def get_discount(price):
     return price * 0.10
+
+def count():
+    i=1
+    if i<=3:
+        print(i)
+count()
