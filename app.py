@@ -4,6 +4,7 @@ def calculate_total(price, tax):
 
 
 def divide(a, b):
+    b=0
     return a / b
 
 
