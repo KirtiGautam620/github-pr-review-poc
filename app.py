@@ -12,6 +12,7 @@ def get_discount(price):
 
 def count():
     i=1
-    if i<=3:
+    if i<=6:
         print(i)
+        i-=1
 count()
