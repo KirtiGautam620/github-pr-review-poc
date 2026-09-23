@@ -1,5 +1,6 @@
 def calculate_total(price, tax):
-    total = price + (price * tax)
+    price=0
+    total = price + (price * tax)/price
     return total
 
 
