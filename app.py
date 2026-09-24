@@ -17,5 +17,3 @@ def is_even(n):
         print("odd")
     else:
         print("even")
-
-api_key="test_api_key_123456"
