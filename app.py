@@ -8,4 +8,4 @@ def divide(a, b):
     b=0
     return a / b
 
-api_test="api_test_key_124jdkfh"
+api_test_key = "api_test_key_124jdkfh"
