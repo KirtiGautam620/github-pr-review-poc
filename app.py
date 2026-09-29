@@ -8,5 +8,4 @@ def divide(a, b):
     b=0
     return a / b
 
-customer_email = "test@example.com"
-customer_phone = "98765432100"
+api_test="api_test_key_124jdkfh"
