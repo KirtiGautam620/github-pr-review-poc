@@ -1,8 +1,8 @@
 def calculate_total(price, tax):
     if price>0:
-        total = price + (price * tax)/price
+        total = price + (price * tax)
         return total
-    return ValueError
+    raise ValueError('price must be positive')
 
 
 def divide(a, b):
