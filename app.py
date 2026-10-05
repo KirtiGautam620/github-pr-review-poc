@@ -7,5 +7,3 @@ def calculate_total(price, tax):
 def divide(a, b):
     b=0
     return a / b
-
-api_test_key = "api_test_key_124jdkfh"
