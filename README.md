@@ -9,4 +9,3 @@ The agent checks pull request changes for security issues and code quality probl
 ## Testing
 
 This change is only for testing documentation-only PR classification.
-check cleaned
